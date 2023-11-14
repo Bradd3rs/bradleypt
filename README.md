@@ -17,7 +17,7 @@ BradleyPT is a single-page application designed to present various GPT models wi
 
 To clone and run this application, you'll need [Git](https://git-scm.com) installed on your computer. From your command line:
 
-# Clone this repository
+### Clone this repository
 
 $ git clone https://github.com/thomasbradley/bradleypt.git
 
@@ -25,17 +25,17 @@ $ git clone https://github.com/thomasbradley/bradleypt.git
 
 $ cd bradleypt
 
-# Open the index.html file in your browser
+### Open the index.html file in your browser
 
-## Usage
+### Usage
 
 The site is straightforward to navigate. Each card on the homepage represents a different GPT model. Click on a card to learn more about that specific model.
 
-## Contributing
+### Contributing
 
 Contributions to enhance BradleyPT are welcomed. Please fork the repository and create a pull request with your improvements or open an issue with your suggestions.
 
-## License
+### License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
