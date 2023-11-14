@@ -168,5 +168,20 @@
         <p>&copy; 2023 BradleyPT. All rights reserved.</p>
       </div>
     </footer> -->
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        var host = window.location.hostname;
+        var headerElement = document.querySelector("header h1");
+
+        if (host === "bradleygpt.app") {
+          document.title = "BradleyGPT - Thomas Bradley's GPT Models Directory";
+          if (headerElement)
+            headerElement.textContent = "Welcome to BradleyGPT";
+        } else {
+          document.title = "BradleyPT - Thomas Bradley's GPT Models Directory";
+          if (headerElement) headerElement.textContent = "Welcome to BradleyPT";
+        }
+      });
+    </script>
   </body>
 </html>
