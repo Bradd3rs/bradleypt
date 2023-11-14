@@ -25,7 +25,7 @@ $ git clone https://github.com/thomasbradley/bradleypt.git
 
 $ cd bradleypt
 
-### Open the index.html file in your browser
+Open the index.html file in your browser
 
 ### Usage
 
